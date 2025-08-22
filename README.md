@@ -1,4 +1,4 @@
-# Tum ChatBot
+# TUM ChatBot
 
 The Tum ChatBot is an application that can be used as a memorandum through the Command Line Interface or JAR Files. If you have anything to do or some important appointments, you can store them in Tum Chat and a text file regarding your tasks will be automatically generated so that you can be aware of what has been done and what should be done.
 
